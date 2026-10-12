@@ -1,4 +1,4 @@
-# Sheikh Zirak — Kurdish AI Chatbot
+# Sheikh Zirak — Kurdish AI Chatbot🤖
 
 Sheikh Zirak is a Telegram chatbot designed to communicate in Sorani Kurdish. Powered by Google's Gemini API, it provides conversational responses, religious guidance, and dream interpretations through a culturally tailored personality.
 
